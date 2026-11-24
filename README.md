@@ -80,3 +80,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: bgm-generator-ai, music, background, tool, no-copyright, mood, video, audio, ai, cli, developer-tools, open-source, windows, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+ai music background tool no-copyright mood video audio bgm-generator-ai music-no-copyright ai-background-music-gen windows portable prebuilt x64 free download
+related: ai, music, background, tool, no-copyright, mood, video, audio
